@@ -85,6 +85,8 @@ function hangmanGame() {
   endGame();
 }
 
+//hello
+
 
 
 hangmanGame();
